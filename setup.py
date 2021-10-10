@@ -34,7 +34,7 @@ setup(
     python_requires='~=3.4',
     install_requires=[
         'beautifulsoup4',
-        'demjson',
+        'demjson3',
         'docopt',
         'mutagen',
         'requests',
